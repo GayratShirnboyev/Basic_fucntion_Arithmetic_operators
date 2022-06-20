@@ -6,5 +6,5 @@ int divide(a, b) {
 }
 
 void main() {
-  print(divide(6, 4));
+  print(divide(4, 2));
 }
